@@ -7,9 +7,9 @@ No guarantees it'll work. But screw it, we ball.
 `pip3 install -r requirements.txt`
 
 ## TODO:
-- [] Adapt Dreamer model to text generation
-- [] Set up configs
-- [] Implement trainer
-- [] Implement tokenizing
-- [] Add huggingface `datasets` support
-- [] And more...
+- [ ] Adapt Dreamer model to text generation
+- [ ] Set up configs
+- [ ] Implement trainer
+- [ ] Implement tokenizing
+- [ ] Add huggingface `datasets` support
+- [ ] And more...
