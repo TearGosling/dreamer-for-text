@@ -1,0 +1,5 @@
+accelerate
+pyyaml
+torch>=2.1.0
+transformers
+wandb
